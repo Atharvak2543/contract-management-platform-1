@@ -29,6 +29,19 @@ All functionality is implemented in demo mode without a backend, as required.
   
 *******************************************************************************************************************************************************************
 
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Create Blueprint
+![Create Blueprint](screenshots/blueprint11.png)
+
+### Contracts List
+![Contracts List](screenshots/contract11.png)
+
+*******************************************************************************************************************************************************************
+
 ## Project Structure
 src/
 ├─ components/
@@ -42,3 +55,4 @@ src/
 ```bash
 npm install
 npm run dev
+
