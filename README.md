@@ -8,10 +8,10 @@ The application allows users to:
 - View saved blueprints
 - Create contracts using blueprints
 - View a list of created contracts
-
+- 
 All functionality is implemented in demo mode without a backend, as required.
 
----
+*******************************************************************************************************************************************************************
 
 ## Features
 - Create Blueprint (demo mode)
@@ -20,13 +20,25 @@ All functionality is implemented in demo mode without a backend, as required.
 - View Contracts List
 - Clean and simple UI
 
----
+*******************************************************************************************************************************************************************
 
 ## Tech Stack
 - React
 - TypeScript
 - Vite
-
----
+  
+*******************************************************************************************************************************************************************
 
 ## Project Structure
+src/
+├─ components/
+│ ├─ Blueprint/
+│ └─ Contract/
+├─ App.tsx
+├─ main.tsx
+*******************************************************************************************************************************************************************
+
+## How to Run Locally
+```bash
+npm install
+npm run dev
